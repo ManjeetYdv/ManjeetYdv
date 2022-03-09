@@ -37,3 +37,11 @@ Here are some ideas to get you started:
   <br>
   </p>
 </p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-4-gagan&show_icons=true&locale=en&layout=compact" alt="g-4-gagan" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-4-gagan&show_icons=true&locale=en" alt="g-4-gagan" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-4-gagan&" alt="g-4-gagan" /></p>
+
