@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishbisht777" alt="manishbisht777" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManjeetYdv" alt="ManjeetYdv" /></a> </p>
 
 <p align="center">
   <br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManishBisht777&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ManjeetYdv&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <br>
   </p>
