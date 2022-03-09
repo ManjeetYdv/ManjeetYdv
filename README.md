@@ -25,3 +25,12 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=ManishBisht777&theme=react-dark&hide_border=true">
   </a>
 </p>
+
+<p>
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManishBisht777&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+  </a>
+  <br>
+  </p>
+</p>
