@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="g-4-gagan" /></p>
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManjeetYdv" alt="ManjeetYdv" /></a> </p>
@@ -40,6 +42,4 @@ Here are some ideas to get you started:
 
 
 /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="g-4-gagan" /></p>
 
