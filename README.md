@@ -61,8 +61,9 @@ Here are some ideas to get you started:
   <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  <a href="https://www.java.com/en/">
- <img src="https://img.shields.io/badge/java-61DAFB?&style=for-the-badge&logo=java&logoColor=121212">
+ <img src="https://img.shields.io/badge/java-61DAFB?&style=for-the-badge&logo=java&logoColor=BB9981">
  </a>
+ 
 
 </p>
 
