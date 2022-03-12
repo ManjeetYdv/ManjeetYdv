@@ -30,6 +30,19 @@ Here are some ideas to get you started:
   </a>
 </p>
  
+
+
+
+<p>
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ManjeetYdv&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+  </a>
+  <br>
+  </p>
+</p>
+
+
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
@@ -46,34 +59,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <br>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
+
 
 
 </p>
-
-
-
-<p>
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManjeetYdv&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
-  <br>
-  </p>
-</p>
-
-
 
 
