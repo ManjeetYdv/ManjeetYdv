@@ -1,5 +1,6 @@
 ### I'm Manjeet 👋
 
+<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=ManjeetYdv&label=Profile%20views&color=0e75b6&style=flat" alt="ManjeetYdv" /> </p>
 <!--
 **ManjeetYdv/ManjeetYdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
