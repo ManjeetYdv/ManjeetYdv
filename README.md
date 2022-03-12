@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   <br>
-  <a href="https://www.java.com/en/">
+  <a href="https://getbootstrap.com/">
  <img src="https://img.shields.io/badge/bootstrap-323330?&style=for-the-badge&logo=bootstrap&logoColor=F7DF1E">
  </a>
  <a href="https://www.java.com/en/">
