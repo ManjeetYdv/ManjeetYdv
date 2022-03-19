@@ -41,8 +41,9 @@ Here are some ideas to get you started:
   <br>
   </p>
 </p>
+<div style="margin-left:auto; margin-right:auto; width:80%;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="ManjeetYdv" /></p>
-
+</div>
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
