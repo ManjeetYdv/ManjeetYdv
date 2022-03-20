@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <br>
   </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="ManjeetYdv" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="ManjeetYdv" /></p> -->
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
