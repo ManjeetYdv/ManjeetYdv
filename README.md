@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&align=center&vCenter=true&width=600&lines=Hello+|+Hola+|Bonjour+|Привет+|你好+|こんにちは+|नमस्ते;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg)
 <!--
 **ManjeetYdv/ManjeetYdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
