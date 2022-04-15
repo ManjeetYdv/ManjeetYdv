@@ -71,7 +71,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/android-E34F26?&style=for-the-badge&logo=android&logoColor=white">
  </a>
   <a href="https://www.java.com/en/">
- <img src="https://img.shields.io/badge/android-E34F26?&style=for-the-badge&logo=mysql&logoColor=F7Df1E">
+ <img src="https://img.shields.io/badge/mysql-E34F26?&style=for-the-badge&logo=mysql&logoColor=F7Df1E">
  </a>
 
 </p>
