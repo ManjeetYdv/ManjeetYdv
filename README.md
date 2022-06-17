@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<p align="left">
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=ManjeetYdv&theme=react-dark&hide_border=true">
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 </p> -->
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="ManjeetYdv" /></p> -->
 
-<h1 align="center"> 🔧 Skills & Tools: </h1>
+<h1 align="left"> 🔧 Skills & Tools: </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
