@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="Manjeetydv" /></p>
 
-<p height="170" align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
+<p size="170" align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
 
 
 
