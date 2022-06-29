@@ -1,4 +1,9 @@
 
+![](./src/github_header.jpg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|नमस्ते+|Bonjour+|Привет+|你好+|こんにちは+|Hola;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg) 
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ManjeetYdv/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ManjeetYdv&column=8&theme=gruvbox&no-frame=true"/>
@@ -17,9 +22,6 @@
 
 
 
-![](./src/github_header.jpg)
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|नमस्ते+|Bonjour+|Привет+|你好+|こんにちは+|Hola;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg) 
 
 <!--Hola
 **ManjeetYdv/ManjeetYdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
