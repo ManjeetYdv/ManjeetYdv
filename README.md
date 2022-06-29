@@ -37,7 +37,6 @@ Here are some ideas to get you started:
  
 
 
-<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
 
 
 
@@ -47,6 +46,9 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=ManjeetYdv&theme=react-dark&hide_border=true">
   </a>
 </p>
+
+
+<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
 
 
 <h1 align="left"> 🔧 Skills & Tools: </h1>
