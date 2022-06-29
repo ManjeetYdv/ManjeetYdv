@@ -1,9 +1,6 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|नमस्ते+|Bonjour+|Привет+|你好+|こんにちは+|Hola;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg) 
-
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ManjeetYdv/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ManjeetYdv&column=8&theme=gruvbox&no-frame=true"/>
@@ -38,11 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManjeetYdv" alt="ManjeetYdv" /></a> </p>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="Manjeetydv" /></p>
 
 
 <p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
