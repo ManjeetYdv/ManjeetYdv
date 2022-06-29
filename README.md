@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="Manjeetydv" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
+<p height="170" align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
 
 
 
@@ -52,19 +52,7 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=ManjeetYdv&theme=react-dark&hide_border=true">
   </a>
 </p>
- 
 
-<!-- 
-
-<p>
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManjeetYdv&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
-  <br>
-  </p>
-</p> -->
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManjeetYdv&show_icons=true&locale=en&layout=compact" alt="ManjeetYdv" /></p> -->
 
 <h1 align="left"> 🔧 Skills & Tools: </h1>
 
