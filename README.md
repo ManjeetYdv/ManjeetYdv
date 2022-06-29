@@ -1,5 +1,5 @@
 
-![](./src/github_header.jpg)
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+|नमस्ते+|Bonjour+|Привет+|你好+|こんにちは+|Hola;+Welcome+to+my+profile+🌍 )](https://git.io/typing-svg) 
 
