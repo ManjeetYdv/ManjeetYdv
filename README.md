@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjeetYdv&" alt="ManjeetYdv" /></p>
 
 
 <h1 align="left"> 🔧 Skills & Tools: </h1>
